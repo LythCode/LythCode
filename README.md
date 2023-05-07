@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lythcode&label=Profile%20views&color=0e75b6&style=flat" alt="lythcode" /> </p>
 
-- 🔭 I’m currently working on **An AI like Jarvis**
+- 🔭 I’m currently working on An **AI like Jarvis**
 
 - 🌱 I’m currently learning **AI, Front-end development**
 
